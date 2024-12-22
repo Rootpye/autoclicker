@@ -1,2 +1,7 @@
 # autoclicker
-autoclick for people
+It just autoclick program
+
+# Install
+```python
+pip install pyautogui
+```
