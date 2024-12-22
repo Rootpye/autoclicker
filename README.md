@@ -1,1 +1,2 @@
 # autoclicker
+autoclick for people
